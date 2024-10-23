@@ -2,7 +2,7 @@
 
 ## Education
 - M.A, Data Science | The Hebrew University of Jerusalem (_Sep 2024_)
-- B.A, Economics and Management	| The University of Texas at Dallas (_June 2019_)
+- B.A, Economics and Management	| Tel Aviv University (_June 2019_)
 
 ## Work Experience
 **Research student  @ Hebrew University of Jerusalem (_sep 2022 - Sep 2024_)**
