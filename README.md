@@ -11,6 +11,7 @@
    student dropout rates for a nonprofit Arabic language learning platform. The insights were used to 
    optimize the learning experience, improving student retention and engagement, leading to a 15% 
    increase in the number of students using the platform as a result of our project.
+   
 **Data Analyst @ MyBiotics (_Jan 2021 - Sep 2023_)**
 - In my role as a Data Analyst at Mybiotics Pharma LTD, I collaborated with the bioinformatics team to analyze and interpret data from R&D experiments. Additionally, 
   I designed a business model for the pharmaceutical industry that forecasted the success rates of MyBiotics products in the microbiome market. This model predicted 
