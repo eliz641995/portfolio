@@ -23,10 +23,10 @@
 - Developed a strategic plan to launch new products for a major Israeli supermarket chain with a 20% market share. Analyzed financial, business, and customer 
   behavior data, performed statistical analysis, and created predictive models to forecast customer satisfaction rate
 
-  **Data Analyst @ Viola Ventures (_Sep 2018 - Aug 2019_)**
-  - In my role as a Data Analyst at Viola Ventures in the Herzliya Area, Israel, I evaluated strategic market opportunities in the high-tech sector, focusing on 
-    fintech, healthcare, and cybersecurity investments. Using R, I conducted business and financial data analysis to provide senior executives with strategic 
-    insights, financial valuations, and due diligence findings.
+**Data Analyst @ Viola Ventures (_Sep 2018 - Aug 2019_)**
+- In my role as a Data Analyst at Viola Ventures in the Herzliya Area, Israel, I evaluated strategic market opportunities in the high-tech sector, focusing on 
+  fintech, healthcare, and cybersecurity investments. Using R, I conducted business and financial data analysis to provide senior executives with strategic 
+  insights, financial valuations, and due diligence findings.
 
   ## Projects
   ### Fine Tuning Roberta for Sentiment Analysis
