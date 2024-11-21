@@ -24,9 +24,9 @@
 - Conducted in depth analysis of healthcare administrative data for a leading Israeli healthcare provider serving over 4.5 million customers. Developed predictive 
   models to optimize workforce distribution and enhance healthcare service delivery, utilizing SQL for data querying and Python for feature engineering and machine 
   learning model implementation. 
-- Built predictive models to forecast customer satisfaction rates for the launch of new products at a leading Israeli supermarket chain with a 20% market share. 
-  Conducted comprehensive analyses of financial data, business metrics, and customer behavior, implementing classification algorithms for effective customer 
-  segmentation. 
+- Built predictive models to forecast product success rates for new product launches at a leading Israeli supermarket chain. Conducted analysis of business 
+  metrics, product trends and customer segmentation through implementation of classification algorithms. Crafted personalized success metrics and delivered 
+  actionable insights to senior executives to enhance customer satisfaction and drive revenue growth. 
 
 **Data Analyst @ Viola Ventures (_Sep 2018 - Aug 2019_)**
 - Evaluated market opportunities in Israeli fintech, healthcare, and cybersecurity sectors, delivering strategic analysis and due diligence presentations to senior executives.
