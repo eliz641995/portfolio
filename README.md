@@ -1,6 +1,6 @@
 # Data Scientist
 
-## Education 
+## Education  
 - M.A, Data Science | The Hebrew University of Jerusalem (_Sep 2024_)
   - Dissertation title :“A new method for gene-based interactions in GWAS” under supervision of Dr. Or Zuk. Designed novel algorithms using Python and R to 
     identify interactions between genetic variants and environmental factors in complex diseases. This approach significantly improved the prediction accuracy of 
