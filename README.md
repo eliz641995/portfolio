@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist 
 
 ## Education  
 - M.A, Data Science | The Hebrew University of Jerusalem (_Sep 2024_)
