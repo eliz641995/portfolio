@@ -36,3 +36,6 @@
   Fine-tuned a RoBERTa model using PyTorch for sentiment analysis of Sephora skincare reviews, leveraging data preprocessing and deep learning techniques to 
   enhance sentiment classification. The optimized model achieved high accuracy, providing valuable insights into customer feedback, satisfaction, and preferences
   
+  ### Computer Vision | Classification and segmentation of multi class breast cancer ultrasound images 	 
+  Implemented various classification algorithms, including ResNet50, VGG19, and CNN, for breast cancer detection. Leveraged the Attention U-Net architecture for 
+  semantic segmentation, overcoming the challenge of a small dataset and achieving high accuracy results.
