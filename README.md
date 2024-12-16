@@ -2,11 +2,10 @@
 
 ## Education  
 - M.A, Data Science | The Hebrew University of Jerusalem (_Sep 2024_)
-  - Dissertation title :“A new method for gene-based interactions in GWAS” under supervision of Dr. Or Zuk. Designed novel algorithms using Python and R to 
-    identify interactions between genetic variants and environmental factors in complex diseases. This approach significantly improved the prediction accuracy of 
-    life-threatening diseases.
-  - Collaborated with Tel Aviv University to build predictive and classification models forecasting fertility trends among Israeli women 40+, identifying key 
-    factors to guide policymakers and healthcare professionals.
+  - Dissertation title: “A new method for gene-based interactions in GWAS” under supervision of Dr. Or Zuk. Designed algorithms to identify interactions between 
+    genetic variants and environmental factors. Achieved 0.9 AUC,enhancing prediction accuracy for life-threatening conditions. 
+  - Built predictive models to forecast total fertility trends among Israeli women using econometric and causal inference techniques (panel regression, DiD). 
+    Attained an MSE of 1.2 and identified key factors influencing reproductive decisions. 
 - B.A, Economics and Management	| Tel Aviv University (_June 2019_)
 
 ## Work Experience
@@ -16,20 +15,20 @@
 
    
 **Data Analyst @ MyBiotics (_Jan 2021 - Sep 2023_)**
-- Analyzed R&D data and built predictive models for bacterial behavior using ensemble learning, regression, and clustering algorithms to support MyBiotics' 
-  pharmaceutical products.
-- Designed strategic financial models for MyBiotics, analyzing safety, efficacy, and economics to forecast product success in the $0.9B C. difficile and $98B immuno-oncology markets, projecting higher market share compared to competitors.
+- Crafted predictive and classification models to analyse R&D data on bacterial behavior, optimizing laboratory experiments and driving product development toward 
+  Phase 1 testing.
+- Designed strategic financial models for MyBiotics to assess product viability in the $1B immuno-oncology market. Insights guided senior management in deciding on 
+  market entry and new product development.
 
 **Data Analyst @ EY (_Aug 2019 - Aug 2020_)**
-- Conducted in depth analysis of healthcare administrative data for a leading Israeli healthcare provider serving over 4.5 million customers. Developed predictive 
-  models to optimize workforce distribution and enhance healthcare service delivery, utilizing SQL for data querying and Python for feature engineering and machine 
-  learning model implementation. 
-- Built predictive models to forecast product success rates for new product launches at a leading Israeli supermarket chain. Conducted analysis of business 
-  metrics, product trends and customer segmentation through implementation of classification algorithms. Crafted personalized success metrics and delivered 
-  actionable insights to senior executives to enhance customer satisfaction and drive revenue growth.
+- Implemented fraud detection algorithms to identify fraudulent check and cash transactions, achieving a recall of 0.8 and delivering actionable insights to 
+  improve detection accuracy. 
+- Utilized predictive modeling techniques to drive product launch success for a leading Israeli supermarket chain. Analyzed business metrics, trends, and customer 
+  behavior using sequential pattern mining, reaching add-to-cart rate of 14%.
 
 **Data Analyst @ Viola Ventures (_Sep 2018 - Aug 2019_)**
-- Evaluated market opportunities in Israeli fintech, healthcare, and cybersecurity sectors, delivering strategic analysis and due diligence presentations to senior executives.
+- Conducted market analysis in Israeli fintech, healthcare, and cybersecurity sectors, providing strategic insights and due diligence presentations to senior 
+  executives for evaluating investment opportunities in early-stage tech startups.
 
   ## Projects
   ### NLP| Sentiment Analysis | Product Reviews 
